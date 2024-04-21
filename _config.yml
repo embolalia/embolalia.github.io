@@ -1,3 +1,10 @@
 title: Else
 description: (as in if)
 theme: jekyll-theme-minimal
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      author: Else
