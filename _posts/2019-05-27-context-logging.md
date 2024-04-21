@@ -1,5 +1,6 @@
-Title: Logging with context in Python
-Date: 2019-05-27 15:00:00
+---
+title: Logging with context in Python
+---
 
 I love Python dearly, but its logging is… honestly, kind of a mess. The particular thing that's been bothering me lately is making the logs easy to analyze mechanically (say, with an aggregator like LogStash or Loggly or SumoLogic or whatever). Python's logging is set up to do simple context-free plaintext, which is fine for simple things, but quickly becomes a pain. The first step to simplifying this is outputting logs in a JSON format, so that things like timestamps are already split out for you. This should be something which should be in the standard library, but isn't. In fact, the standard library is set up in a way which makes doing that more complicated than it should be. But that's not what this post is about, so I'm not going to cover it here.
 

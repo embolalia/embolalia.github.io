@@ -1,5 +1,6 @@
-Title: What are up with the English plurals?
-Date: 2016-10-21 13:00:00
+---
+title: What are up with the English plurals?
+---
 
 Grammatical number in English is horrible, and we should just give up on it.
 Granted, this is something we can say about basically every aspect of the

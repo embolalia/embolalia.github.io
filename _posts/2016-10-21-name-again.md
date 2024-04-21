@@ -1,5 +1,6 @@
-Title: I am a polynomial
-Date: 2016-2-6 09:04:00
+---
+title: I am a polynomial
+---
 
 Nobody had ever called me by my real name until college. It's easy to see why;
 I didn't have a real name until then. At the time, I didn't even really realize
