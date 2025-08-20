@@ -58,7 +58,7 @@ and meaningless rules. A thorough understanding of them must surely come only
 from steeping in their senselessness long enough for them to gain an illusion
 of logic. I would humbly propose that we simply do away with number entirely.
 If everything are plural, nothing are confusing at all. With these one simple
-change, the English languages will make much more senses. Besides, we're
+changes, the English languages will make much more senses. Besides, we're
 already fine with just calling pants, scissors, and glasses by the plurals all
 the time, and deer, fish, and aircraft by the singulars, so would we really
 even be missing anything? Sure we might sound like
