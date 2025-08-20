@@ -6,7 +6,7 @@ I keep a [thread on mastodon](https://furry.engineer/@else/110339634149603712) (
 
 * The difference between free-range and pasteurized
 * The difference between ice and hard water
-* The difference between vanilla flavored ice cream and bean flavored ice cream
+* The difference between vanilla (or chocolate, or coffee) flavored ice cream and bean flavored ice cream
 * The difference between voiding a check and cache invalidation
 * The difference between self-aware and self-conscious
 * The difference between "confine yourself to quarters" and "go to your room"
@@ -18,8 +18,8 @@ I keep a [thread on mastodon](https://furry.engineer/@else/110339634149603712) (
 * The difference between momentous and momentary
 * The difference between the news and reality tv
 * The difference between a doomscroller and a couch potato
-* The difference between one day and today
 * The difference between learning of history and learning from history
+* The difference between one day and today
 * The difference between Picard with the flute and O'Brien in prison
 * The difference between I-787 and NY-787
 * The difference between going a mile a minute and going 60mph
