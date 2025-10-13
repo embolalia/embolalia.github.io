@@ -6,7 +6,7 @@ All my posts are below, but the most important are [Unspeakable](https://asinif.
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <small><i>{{ post.date | date: "%Y-%m-%d" }}</i></small> - <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
