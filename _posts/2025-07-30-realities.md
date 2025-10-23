@@ -1,5 +1,7 @@
 ---
 title: The Realities in my Eyes
+tags:
+  - vision
 ---
 
 Human vision is a remarkably complicated thing. To the normally-sighted, it seems to be nothing more than a camera producing a video feed. I am not normally-sighted, and have had to come to my own understanding of vision. Some aspects have been easy to understand through simple science, while others have forced me to confront eldritch horrors beyond my comprehension. I will lay out the scientific aspects first, to explain my framing for the psychological.

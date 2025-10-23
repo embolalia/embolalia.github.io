@@ -1,5 +1,7 @@
 ---
 title: What are up with the English plurals?
+tags:
+  - humor
 ---
 
 Grammatical number in English is horrible, and we should just give up on it.

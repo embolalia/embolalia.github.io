@@ -1,5 +1,11 @@
 ---
 title: Unspeakable
+permalink: /unspeakable
+redirect_from:
+  - /2025/08/03/unspeakable.html
+tags:
+  - vision
+  - religion
 ---
 
 The thoughts feel like words in my head. They feel like coherent, important messages. But then I try to speak them, or type them, and they aren't anymore. They turn into mojibake, they come out in tongues. sdfah;jh?

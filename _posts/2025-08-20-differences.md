@@ -1,5 +1,7 @@
 ---
 title: The Difference Between…
+tags:
+  - humor
 ---
 
 I keep a [thread on mastodon](https://furry.engineer/@else/110339634149603712) (and previously on twitter) of simple differences. Here is a selection of my favorites, which I'll update and shuffle around as I see fit.
