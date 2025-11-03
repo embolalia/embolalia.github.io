@@ -1,0 +1,6 @@
+User-agent: *
+Disalow: /
+Allow: /2025/11/03/ai.html
+
+User-agent: ia_archiver
+Disallow:
