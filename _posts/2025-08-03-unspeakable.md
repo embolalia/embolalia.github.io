@@ -6,6 +6,7 @@ redirect_from:
 tags:
   - vision
   - religion
+  - creative
 ---
 
 The thoughts feel like words in my head. They feel like coherent, important messages. But then I try to speak them, or type them, and they aren't anymore. They turn into mojibake, they come out in tongues. sdfah;jh?
