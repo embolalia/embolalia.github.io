@@ -1,0 +1,19 @@
+---
+title: Proportionality
+tags:
+  - politics
+---
+
+A common complaint about the American political system is that members of congress have too many constituents. The size of a constituency makes it impossible for a congressman to feel close to a constituency. However, there is another side to that coin. Canadian MPs have an average of about 120,000 constituents, to America's average of about 782,000. At Canadian scale, the House of Representatives would have *2,834* members! That could, theoretically, be done. Perhaps it should be done! (Though, I will note that members of parliament in the EU, the closest peer of the US, have an average of 625,000 constituents, so the status quo is perhaps not as egregious as it might seem.) A body that large, though, presents challenges.
+
+Just as a representative with too many constituents can't have a close enough relationship with them, a body with too many members can't have close enough relationships within itself. Politics requires compromise, and compromise is easiest when the people working out the compromises can know and trust each other. In a body of nearly 3,000 people, nobody could possibly work with each member individually. Even in a body of 435, this is true. Most members are backbenchers, utterly forgettable and with little ability to pull for their constituents.
+
+Enter the Senate. With only a [Dunbar's number](https://en.wikipedia.org/wiki/Dunbar%27s_number) of members, every senator is notable. Only a wonk can remember them all, of course, but a wonk (and certainly a leader in the body) *can* remember them all. Deals can be made personally, there can be trust and relationships. Voters can select a personality and expect that personality to matter in how business is conducted. A senator is not a mere functionary, but a meaningful person in the story of the body.
+
+There is a place for both models, which is part of why there *are* both models. ("Because slavery" is a middling middle schooler's understanding of why the Senate exists. Not wrong, just not A+ work.) That said, the underrepresentation of people from larger States is an obvious criticism of the system.
+
+In an idealized federation, each State would have equal population and resources, and be entitled to equal power. Nothing is ever so simple. In practice, some States have abundant resources, some have a large population, some have both, some have neither. All want to feel that their importance is appropriately represented. The popular perspective is that only population should matter in determining power. It would be, wouldn't it? But what power is there in a State which cannot feed itself? Is there no power in the State which provides the resources that the industrial State processes and sells? Population matters, of course, but by Hamilton's name, there are other things that matter too!
+
+I think an adequate compromise to these competing needs is to retain two senators per State, but give them proportionate power in floor votes. As a simple example, the senators from a State with 30 Wyomings of population get 30 votes each to the Wyoming senators' 1. This does leave smaller States overrepresented in committee assignments, but then those are always a matter of power anyway. This overrepresentation would also allay the fear of smaller States being drowned out by the larger States. If it doesn't, some other formula of apportioning votes could be used.
+
+Whatever decision is reached, whether it is to have more senators or keep the status quo or somewhere in between, it will inevitably be abused eventually. Truly, I think even if we had the perfect system (which is not a thing that can exist), we would still be having our current moment, as faith in the rules and desire to make them work is ultimately more important than what the rules actually are.
