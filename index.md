@@ -13,24 +13,27 @@ This website is an attempt to empty my whole brain. The main audience is myself,
     </li>
   {% endfor %}
 </ul>
-
-<h3>Posts by tag</h3>
-
-{% for tag in site.tags %}
-  <h4>{{ tag[0] }}</h4>
-  <ul>
-    {% for post in tag[1] %}
-      <li><small><i>{{ post.date | date: "%Y-%m-%d" }}</i></small> - <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-{% endfor %}
-
-<h3>Posts by date</h3>
-
+<details>
+<summary>more</summary>
 <ul>
-  {% for post in site.posts %}
+  {% for post in site.posts offset:3%}
     <li>
       <small><i>{{ post.date | date: "%Y-%m-%d" }}</i></small> - <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
+</details>
+<br/>
+
+<h3>Posts by tag</h3>
+
+{% for tag in site.tags %}
+  <details>
+  <summary><strong>{{ tag[0] }}</strong></summary>
+  <ul>
+    {% for post in tag[1] %}
+      <li><small><i>{{ post.date | date: "%Y-%m-%d" }}</i></small> - <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+  </details>
+{% endfor %}
