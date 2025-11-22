@@ -1,16 +1,30 @@
+<!DOCTYPE html>
 <html>
+    <script>
+        function recolor(id, colors) {
+            color = colors[Math.floor(Math.random() * colors.length)];
+            document.getElementById(id).style.color = color;
+        }
+        function generate() {
+            recolor("blue", ["cornflowerblue", "deepskyblue", "lightskyblue", "lightblue", "royalblue", "skyblue", "steelblue"])
+            recolor("gray", ["darkgray", "gray", "lightgray", "lightslategray",  "silver", "slategray"])
+            recolor("yellow", ["darkgoldenrod", "gold", "goldenrod", "lightyellow", "yellow"])
+            recolor("orange", ["brown", "chocolate", "coral", "darkorange", "orange", "orangered", "sandybrown"])
+            recolor("red", ["crimson", "darkred", "lightpink", "maroon", "red"])
+            setTimeout(generate, 2000);
+        }
+    </script>
     <head>
-        <title>sunset</title>
+        <title>uncapturable</title>
         <meta name="author" content="E�ꙮ�∃">
     </head>
-    <body style="font-size: 10vh">
+    <body style="font-size: 10vh" onload="generate()">
         <p>
-            <span style="color: deepskyblue">blue</span><br/>
-            <span style="color: lightsteelblue">gray</span><br/>
-            <span style="color: yellow">yellow</span><br/>
-            <span style="color: orange">orange</span><br/>
-            <span style="color: red">red</span><br/>
-            <span style="background-color: black; color: ghostwhite">gloom</span>
+            <span id="blue" style="color: deepskyblue">blue</span><br/>
+            <span id="gray" style="color: lightsteelblue">gray</span><br/>
+            <span id="yellow" style="color: yellow">yellow</span><br/>
+            <span id="orange" style="color: orange">orange</span><br/>
+            <span id="red" style="color: red">red</span><br/>
         </p>
     </body>
 </html>
