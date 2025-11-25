@@ -4,14 +4,15 @@
         function recolor(id, colors) {
             color = colors[Math.floor(Math.random() * colors.length)];
             document.getElementById(id).style.color = color;
+            timeout = 1000 + Math.floor(Math.random() * 1000);
+            setTimeout(recolor, timeout, id, colors);
         }
         function generate() {
-            recolor("blue", ["cornflowerblue", "deepskyblue", "lightskyblue", "lightblue", "royalblue", "skyblue", "steelblue"])
-            recolor("gray", ["darkgray", "gray", "lightgray", "lightslategray",  "silver", "slategray"])
-            recolor("yellow", ["darkgoldenrod", "gold", "goldenrod", "lightyellow", "yellow"])
-            recolor("orange", ["brown", "chocolate", "coral", "darkorange", "orange", "orangered", "sandybrown"])
-            recolor("red", ["crimson", "darkred", "lightpink", "maroon", "red"])
-            setTimeout(generate, 2000);
+            recolor("blue", ["cornflowerblue", "deepskyblue", "lightskyblue", "lightblue", "royalblue", "skyblue", "steelblue"]);
+            recolor("gray", ["darkgray", "gray", "lightgray", "lightslategray",  "silver", "slategray"]);
+            recolor("yellow", ["darkgoldenrod", "gold", "goldenrod", "lightyellow", "yellow"]);
+            recolor("orange", ["brown", "chocolate", "coral", "darkorange", "orange", "orangered", "sandybrown"]);
+            recolor("red", ["crimson", "darkred", "lightpink", "maroon", "red"]);
         }
     </script>
     <head>
