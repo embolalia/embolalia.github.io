@@ -1,25 +1,10 @@
 <!DOCTYPE html>
 <html>
-    <script>
-        function recolor(id, colors) {
-            color = colors[Math.floor(Math.random() * colors.length)];
-            document.getElementById(id).style.color = color;
-            timeout = 1000 + Math.floor(Math.random() * 1000);
-            setTimeout(recolor, timeout, id, colors);
-        }
-        function generate() {
-            recolor("blue", ["cornflowerblue", "deepskyblue", "lightskyblue", "lightblue", "royalblue", "skyblue", "steelblue"]);
-            recolor("gray", ["darkgray", "gray", "lightgray", "lightslategray",  "silver", "slategray"]);
-            recolor("yellow", ["darkgoldenrod", "gold", "goldenrod", "lightyellow", "yellow"]);
-            recolor("orange", ["brown", "chocolate", "coral", "darkorange", "orange", "orangered", "sandybrown"]);
-            recolor("red", ["crimson", "darkred", "lightpink", "maroon", "red"]);
-        }
-    </script>
     <head>
         <title>uncapturable</title>
         <meta name="author" content="E�ꙮ�∃">
     </head>
-    <body style="font-size: 10vh" onload="generate()">
+    <body style="font-size: 10vh">
         <p>
             <span id="blue" style="color: deepskyblue">blue</span><br/>
             <span id="gray" style="color: lightsteelblue">gray</span><br/>
@@ -28,4 +13,17 @@
             <span id="red" style="color: red">red</span><br/>
         </p>
     </body>
+    <script>
+        function recolor(id, colors) {
+            color = colors[Math.floor(Math.random() * colors.length)];
+            document.getElementById(id).style.color = color;
+            timeout = 1000 + Math.floor(Math.random() * 1000);
+            setTimeout(recolor, timeout, id, colors);
+        }
+        recolor("blue", ["cornflowerblue", "deepskyblue", "lightskyblue", "lightblue", "royalblue", "skyblue", "steelblue"]);
+        recolor("gray", ["darkgray", "gray", "lightgray", "lightslategray",  "silver", "slategray"]);
+        recolor("yellow", ["darkgoldenrod", "gold", "goldenrod", "lightyellow", "yellow"]);
+        recolor("orange", ["brown", "chocolate", "coral", "darkorange", "orange", "orangered", "sandybrown"]);
+        recolor("red", ["crimson", "darkred", "lightpink", "maroon", "red"]);
+    </script>
 </html>
