@@ -9,7 +9,7 @@ This website is an attempt to empty my whole brain. The main audience is myself,
 <ul>
   {% for post in site.posts limit:3%}
     <li>
-      <small><i>{{ post.date | date: "%Y-%m-%d" }}</i></small> - <a href="{{ post.url }}">{{ post.title }}</a>
+      <small><i>{{ post.date | date: "%Y-%m-%d" }}</i></small> - <a href="{{ post.url }}">{{ post.title }}</a> <small><i>({{ post.tags | join: " - " }})</i></small>
     </li>
   {% endfor %}
 </ul>
@@ -18,7 +18,7 @@ This website is an attempt to empty my whole brain. The main audience is myself,
 <ul>
   {% for post in site.posts offset:3%}
     <li>
-      <small><i>{{ post.date | date: "%Y-%m-%d" }}</i></small> - <a href="{{ post.url }}">{{ post.title }}</a>
+      <small><i>{{ post.date | date: "%Y-%m-%d" }}</i></small> - <a href="{{ post.url }}">{{ post.title }}</a> <small><i>({{ post.tags | join: " - " }})</i></small>
     </li>
   {% endfor %}
 </ul>
