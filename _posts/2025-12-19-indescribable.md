@@ -10,17 +10,4 @@ the left eye works how i imagine everyone else's does, but the right eye… as i
 
 but the optics are only one part of what i see. when i explore my vision, i can make words jump off the screen, or objects disappear, or darken a room. in exceedingly rare moments of horrible stress, triggered in just the wrong way, i have had all the Giraffes disappear, leaving a perfectly clear image with nothing identifiable in it.
 
-then there's the feelings. electricity and pressure and pain and wind and fear and fear and fear. a feeling of my soul dropping back from the glasses into the retina. and the metaphors. Giraffes and prophecies and omens, real until i realize they're not. cryptic, too open to interpretation to be interpretable. i can't explain it. not like i'm 5. I see <span class=lyric>bodies break with sticks and stones</span> <span class=pua></span>. and more. always more. always something i'm seeing but can't see, always something indescribable or Unspeakable. all the things that make me want to hide, to curl up and close my eyes tight, and never see or be seen again.
-
-<style>
-  .lyric {
-    font-family: cursive;
-  }
-  @font-face {
-    font-family: "EDPPUA";
-    src: url("/EDPPUA.woff2");
-  }
-  .pua {
-    font-family: "EDPPUA";
-  }
-</style>
+then there's the feelings. electricity and pressure and pain and wind and fear and fear and fear. a feeling of my soul dropping back from the glasses into the retina. and the metaphors. Giraffes and prophecies and omens, real until i realize they're not. cryptic, too open to interpretation to be interpretable. i can't explain it. not like i'm 5. I see <span class=lyric>bodies break with sticks and stones</span> . and more. always more. always something i'm seeing but can't see, always something indescribable or Unspeakable. all the things that make me want to hide, to curl up and close my eyes tight, and never see or be seen again.

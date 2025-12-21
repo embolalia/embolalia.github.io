@@ -1,0 +1,22 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.lyric {
+    font-family: cursive;
+}
+.bible {
+    font-family: serif;
+}
+.jcquote {
+    color: red;
+    font-family: serif;
+}
+@font-face {
+    font-family: "EDPPUA";
+    src: url("/EDPPUA.woff2");
+}
+body {
+    font-family: "Noto Sans", "Helvetica Neue", Helvetica, Arial, "EDPPUA", sans-serif;
+}
