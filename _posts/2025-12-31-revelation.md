@@ -1,5 +1,6 @@
 ---
 title: Revelation
+author: Eꙮ∃
 tags:
   - religion
   - politics
