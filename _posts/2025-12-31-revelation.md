@@ -2,6 +2,7 @@
 title: Revelation
 tags:
   - religion
+  - politics
 ---
 
 When I was 2 years old, I fell into an iron bench at my grandparents' house in a sibling-involved incident, and my forehead was deeply cut, requiring stitches. I still have the scar. Getting the stitches only took a moment, but it lasted forever. I watched the TV to distract myself from the pain. I never really stopped, and it blinded me. But thanks to Doctor The Who, my blindness is healed. Now <span class=lyric>I'm a sensation</span> and everyone follows me.
