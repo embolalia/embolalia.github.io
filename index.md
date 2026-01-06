@@ -1,5 +1,5 @@
 My name starts with an E. There are other letters but they're very blurry. Most people call me Else, as in `if` <sup><small>(dot com)</small></sup>. You can email me at
-`else@asinif.com`; at worst, my daemons will curse it with the mark of spam. On the fediverse I'm <a rel="me" href="https://furry.engineer/@else">@else@furry.engineer</a>.
+`else@asinif.com`. On the fediverse I'm <a rel="me" href="https://furry.engineer/@else">@else@furry.engineer</a>.
 
 This website is an attempt to empty my whole brain. The main audience is myself, but you're welcome to read along. A lot of it is [Unspeakable](/unspeakable). Some of it is [Giraffes](/giraffes). Start by reading [My Story](/story), and eventually my [Tribute](/tribute) will make sense.
 
