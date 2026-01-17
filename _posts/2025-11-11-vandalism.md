@@ -4,6 +4,7 @@ tags:
   - creative
   - vision
   - urbanism
+  - plaza
 ---
 
 ```
