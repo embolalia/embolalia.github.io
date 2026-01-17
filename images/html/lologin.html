@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <title>console</title>
+        <meta name="author" content="E�ꙮ�∃">
+    </head>
+    <body style="background-color: black; font-family: monospace; font-size: 30vmin;">
+        <span style="color: green">hell<span id="o">o</span> world</span>
+    </body>
+    <script>
+        function flash(cursor) {
+            color = cursor ? "green" : "transparent";
+            document.getElementById("o").style.background = color;
+            setTimeout(flash, 500, !cursor);
+        }
+        flash()
+    </script>
+</html>
