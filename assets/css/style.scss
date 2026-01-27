@@ -45,8 +45,14 @@
 .bible {
     font-family: 'Pirata One', Georgia, 'Times New Roman', Times, serif;
 }
+.mormon {
+  font-family: 'Comic Sans MS', 'Comic Sans', 'Brush Script MT', sans-serif;
+}
 .jc {
     color: red;
+}
+.ek {
+  color: forestgreen;
 }
 .scifi {
     font-family: Rationale;
@@ -55,7 +61,10 @@
   font-family: serif;
 }
 .scrawl {
-  font-family: 'Permanent Marker';
+  font-family: 'Permanent Marker', 'Comic Sans MS', 'Comic Sans', 'Brush Script MT', sans-serif;
+}
+.meme {
+  font-family: 'Impact', 'Tahoma', sans-serif;
 }
 @font-face {
     font-family: "EDPPUA";
