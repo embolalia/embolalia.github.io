@@ -3,6 +3,24 @@
 
 @import "{{ site.theme }}";
 
+
+@font-face {
+    font-family: "EDPPUA";
+    src: url("/assets/fonts/EDPPUA.woff2");
+}
+@font-face {
+    font-family: "Impact";
+    src: url("/assets/fonts/Impact.ttf");
+}
+@font-face {
+    font-family: "Comic Sans MS";
+    src: url("/assets/fonts/Comic_Sans_MS.ttf");
+}
+@font-face {
+    font-family: "Z003";
+    src: url("/assets/fonts/Z003-MediumItalic.otf");
+}
+
 /* latin-ext */
 @font-face {
   font-family: 'Pirata One';
@@ -39,8 +57,18 @@
   src: url(https://fonts.gstatic.com/s/permanentmarker/v16/Fh4uPib9Iyv2ucM6pGQMWimMp004La2Cfw.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
+/* latin */
+@font-face {
+  font-family: 'Qwigley';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/qwigley/v20/1cXzaU3UGJb5tGoCiVtmig.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
 .lyric {
-    font-family: cursive;
+    font-family: Z003, cursive;
 }
 .bible {
     font-family: 'Pirata One', Georgia, 'Times New Roman', Times, serif;
@@ -65,10 +93,6 @@
 }
 .meme {
   font-family: 'Impact', 'Tahoma', sans-serif;
-}
-@font-face {
-    font-family: "EDPPUA";
-    src: url("/EDPPUA.woff2");
 }
 body {
     font-family: "Noto Sans", "Helvetica Neue", Helvetica, Arial, "EDPPUA", sans-serif;
