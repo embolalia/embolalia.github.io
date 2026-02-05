@@ -1,6 +1,6 @@
 User-agent: *
 Disalow: /
-Allow: /2025/11/03/ai.html
+Allow: /2025/11/03/ai.html /tribute
 
 User-agent: ia_archiver
 Disallow:
