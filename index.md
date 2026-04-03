@@ -30,7 +30,7 @@ This website is an attempt to empty my whole brain. The main audience is myself,
 {% for tag in site.tags %}
   <details>
   <summary><strong>{{ tag[0] }}</strong></summary>
-  <ul>
+  <ul id={{tag[0]}}>
     {% for post in tag[1] %}
       <li><small><i>{{ post.date | date: "%Y-%m-%d" }}</i></small> - <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
